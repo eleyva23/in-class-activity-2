@@ -7,3 +7,6 @@ const product= [
     ];
 
     
+    for (let product of products) {
+        
+    }
